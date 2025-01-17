@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-image: url(Assets/slide-two.webp);
+}
+.header-line{
+width: 100%;
+height: 200px;
+background-color: #383535;
+}
+
+.headerline1 p{
+    color: white;
+    font-size: 22px;
+    padding: 22px 197px;
+}
